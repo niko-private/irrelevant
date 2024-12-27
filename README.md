@@ -43,5 +43,4 @@ To stop the script use `Ctrl+C`.
 
 ## Disclaimer
 
-This script is for educational purposes only. Use responsibly and ensure compliance with the rules and regulations of the game and Roblox itself.
-
+This script is for educational purposes only. Please use it responsibly and ensure compliance with both the game's rules and Roblox's terms of service. You are free to edit and modify the script, but do so at your own risk.
