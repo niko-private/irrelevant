@@ -7,7 +7,8 @@ This script automates gameplay elements using Python, AutoHotkey, and Q-Learning
  - Averages 100k per night (results may vary depending on parameters, training data, the current fish market, and fishing method, e.g., Magnet Rod, Mythical Rod).
 
 ### Showcase
-![Watch the demo on YouTube]([[[https://youtu.be/your-video-link](https://www.youtube.com/watch?v=EyGCTgqdPgQ](https://www.youtube.com/watch?v=krDWc30PAGg](https://www.youtube.com/watch?v=fx2Z5ZD_Rbo))))
+https://github.com/user-attachments/assets/54fbcd89-b206-4ce5-8db6-569aaba799e1
+
 
 ## Setup
 
