@@ -2,7 +2,7 @@
 
 ## Overview
 
-This script automates gameplay elements using Python, AutoHotkey, and Q-Learning. It automates all key fishing features at release, such as throwing, shaking, and reeling.
+This script automates gameplay elements using Python, AutoHotkey, and Q-Learning. It automates all key fishing features at release: throwing, shaking, and reeling.
 
  - Averages 100k per night (results may vary depending on parameters, training data, the current fish market, and fishing method, e.g., Magnet Rod, Mythical Rod).
 
